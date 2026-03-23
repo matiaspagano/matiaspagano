@@ -36,14 +36,6 @@ Mi experiencia abarca múltiples lenguajes, frameworks e infraestructuras. Aquí
   </a>
 </div>
 
-<br/>
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiaspagano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Matías" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspagano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
-</div>
 
 ---
 <div align="center">
