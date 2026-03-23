@@ -2,7 +2,7 @@
   <h1>Hola 👋, soy Matías Pagano</h1>
   
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Licenciado+en+Informática;Desarrollador+Web+Senior;Profesor+en+UNLP;Entusiasta+del+Software+Libre" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Licenciado+en+Informática;Desarrollador+Web+Senior;Profesor+Asociado+(UNLP);Entusiasta+del+Software+Libre" alt="Typing SVG" /></a>
   </p>
 
   <p>
@@ -18,7 +18,7 @@
 Con más de **10 años de experiencia en desarrollo web**, me dedico a integrar y coordinar proyectos utilizando diversas tecnologías y metodologías ágiles. Mis áreas de mayor interés son el desarrollo de aplicaciones, las **redes de datos**, la **seguridad informática**, el **Internet de las Cosas (IoT)** y el **Software Libre**.
 
 - 🏢 Actualmente formo parte del equipo de desarrollo del **CeSPI-UNLP**.
-- 👨‍🏫 Soy **Profesor Adjunto** en las materias de *Proyecto de Software* e *Internet de las Cosas* en la Facultad de Informática (**UNLP**).
+- 👨‍🏫 Soy **Profesor Asociado** en las materias de *Proyecto de Software* e *Internet de las Cosas* en la Facultad de Informática (**UNLP**).
 - 🎓 **Licenciado en Informática** (UNLP) y maestrando en *Redes de Datos*.
 - 🌱 Impulsé proyectos de Software Libre como **[Meran (SIGB)](https://github.com/Desarrollo-CeSPI/meran)** y **Koha-UNLP**.
 
